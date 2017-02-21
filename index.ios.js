@@ -8,6 +8,7 @@ import Header from './src/components/header';
 //-------------------------------
 // Header Component
 //-------------------------------
+
 const App = () => {
     return (
         <Header />
