@@ -2,20 +2,16 @@
 // App Dependencies 
 //-------------------------------
 import React from 'react';
-import { AppRegistry } from 'react-native';
-import Header from './src/components/header';
+import { Text } from 'react-native';
 
 //-------------------------------
 // Header Component
 //-------------------------------
-const App = () => {
-    return (
-        <Header />
-    );
+const Header = () => {
+	return <Text>Albums</Text>;
 };
 
 //-------------------------------
 // Export Component
 //-------------------------------
-AppRegistry.registerComponent('albums', () => App);
-
+export default Header;
