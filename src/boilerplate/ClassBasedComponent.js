@@ -6,7 +6,7 @@
 	import { View } from 'react-native';
 
 //-------------------------------
-// AlbumList Component
+// Name Component
 //-------------------------------
 
 	class BoilerPLate extends Component {

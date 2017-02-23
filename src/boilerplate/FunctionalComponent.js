@@ -6,7 +6,7 @@
 	import { Text, View } from 'react-native';
 
 //-------------------------------
-// Header Component
+// Name Component
 //-------------------------------
 
 	const BoilerPLate = (props) => {
@@ -21,4 +21,4 @@
 //-------------------------------
 // Export Component
 //-------------------------------
-	export default Header;
+	export default BoilerPLate;
